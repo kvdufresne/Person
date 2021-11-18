@@ -74,16 +74,7 @@
 
 .BodyText{
     font-family: CMR;
-    font-size: 40px;
-    text-align: Left;
-    margin-top: 13px;
-    margin-bottom: 45px;
-    line-height: 125%;
-}
-
-.Paragraph{
-    font-family: CMR;
-    font-size: 40px;
+    font-size: 20px;
     text-align: Left;
     margin-top: 13px;
     margin-bottom: 45px;
