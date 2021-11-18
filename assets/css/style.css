@@ -17,7 +17,7 @@
 
 .LatexTitle{
     font-family: Beth Ellen;
-    font-size: 120px;
+    font-size: 80px;
     padding-top: 15vh;
     text-align: right;
     margin-bottom: 15px;
@@ -25,22 +25,21 @@
 
 .LatexName{
     font-family: CMR;
-    font-size: 100px;
+    font-size: 70px;
     text-align: center;
     margin-bottom: 13px;
 }
 .LatexDate{
     font-family: CMR;
-    font-size: 100px;
+    font-size: 70px;
     text-align: center;
     margin-top: 13px;
     margin-bottom: 45px;
 }
 
 .LatexAbstract{
-    font-family: CMB;
-    font-weight: bold;
-    font-size: 100px;
+    font-family: CMR;
+    font-size: 70px;
     text-align: center;
     margin-bottom: 10px;
 }
@@ -66,7 +65,7 @@
 }
 
 .Section{
-    font-family: CMB;
+    font-family: CMR;
     font-size: 33px;
     text-align: Left;
     margin-top: 13px;
@@ -74,8 +73,8 @@
 }
 
 .BodyText{
-    font-family: Nanum Myeongjo;
-    font-size: 40px;
+    font-family: CMR;
+    font-size: 80px;
     text-align: Left;
     margin-top: 13px;
     margin-bottom: 45px;
