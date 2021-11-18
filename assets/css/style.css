@@ -17,21 +17,21 @@
 
 .LatexTitle{
     font-family: Beth Ellen;
-    font-size: 40px;
+    font-size: 120px;
     padding-top: 40vh;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .LatexName{
     font-family: CMR;
-    font-size: 27px;
+    font-size: 100px;
     text-align: center;
     margin-bottom: 13px;
 }
 .LatexDate{
     font-family: CMR;
-    font-size: 27px;
+    font-size: 100px;
     text-align: center;
     margin-top: 13px;
     margin-bottom: 45px;
@@ -40,7 +40,7 @@
 .LatexAbstract{
     font-family: CMB;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 100px;
     text-align: center;
     margin-bottom: 10px;
 }
